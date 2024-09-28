@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution Repository URL: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Solution Repository URL: [Click here](https://github.com/CannyRo/FrontendMentor_HuddleLandingPageWithASingleIntroductorySection_B_2Wvxgi0)
+- Live Site URL: [Click here](https://cannyro.github.io/FrontendMentor_HuddleLandingPageWithASingleIntroductorySection_B_2Wvxgi0/)
 
 ## My process
 
